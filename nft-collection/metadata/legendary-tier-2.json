@@ -1,0 +1,22 @@
+{
+  "name": "Diamond Swirl #1",
+  "symbol": "DATX-SWIRL",
+  "description": "A diamond-encrusted swirl that hypnotizes foes into submission - Grants +30% El Shito Power-Up chance and GUARANTEES one power-up per game. Exclusive effect: Double power-up effect one time per game. Part of the DatXit Power-Up Booster collection.",
+  "image": "https://arweave.net/placeholder-diamond-swirl-1",
+  "external_url": "https://sewerarena.datx.gg/nft/diamond-swirl-1",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Boost Percentage", "value": "30%" },
+    { "trait_type": "Collection", "value": "DatXit Power-Up Boosters" },
+    { "trait_type": "Category", "value": "Artifact" },
+    { "trait_type": "Exclusive Effect", "value": "Guaranteed Power-Up + Double Effect" },
+    { "trait_type": "Material", "value": "Diamond" },
+    { "trait_type": "Power Level", "value": "Legendary" }
+  ],
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [{ "uri": "https://arweave.net/placeholder-diamond-swirl-1", "type": "image/png" }],
+    "category": "image",
+    "creators": [{ "address": "datxitsewera11111111111111111111", "verified": true, "share": 100 }]
+  }
+}

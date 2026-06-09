@@ -1,0 +1,62 @@
+{
+  "symbol": "DATX",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "maxSupply": 6,
+  "price": 2.0,
+  "itemsAvailable": 6,
+  "goLiveDate": null,
+  "creators": [
+    {
+      "address": "datxitsewera11111111111111111111",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "awsS3Bucket": "datx-nft-collection",
+  "retainAuthority": true,
+  "authority": "datxitsewera11111111111111111111",
+  "environment": "mainnet",
+  "program": "cndy3Z4FNLcjwSfrw2hWumPjPmeVf2djAMnqWKqv4Uw",
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "gatekeeper": null,
+      "startDate": {
+        "date": "2024-02-01T00:00:00Z"
+      },
+      "thirdPartySigner": null,
+      "tokenPayment": null,
+      "tokenBurn": null,
+      "freezeTokenPrice": null,
+      "freezeSolPrice": null,
+      "captcha": null,
+      "tokenGate": null,
+      "mint": null,
+      "allowList": null,
+      "redeemedAmount": null,
+      "addressGate": null,
+      "nftGate": null,
+      "nftBurn": null,
+      "tokenGate": null,
+      "solPayment": {
+        "amount": "2.0"
+      },
+      "endDate": null,
+      "allocation": null
+    }
+  },
+  "metadata": {
+    "name": "DatXit Power-Up Boosters",
+    "symbol": "DATX",
+    "description": "Equippable NFT Power-Up Boosters for Sewer Arena - Increase El Shito power-up trigger rates and unlock exclusive in-game effects.",
+    "creators": [
+      {
+        "address": "datxitsewera11111111111111111111",
+        "share": 100,
+        "verified": true
+      }
+    ],
+    "external_url": "https://sewerarena.datx.gg"
+  }
+}

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://sewerarena.com/sitemap.xml
+
+# Crawl delay for bots
+Crawl-delay: 0

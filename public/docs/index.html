@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sewer Arena - Documentation Hub</title>
+    <meta name="description" content="Complete documentation for Sewer Arena gaming platform. Learn about features, implementation, roadmap, and security audit." />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="Sewer Arena - Documentation" />
+    <meta property="og:description" content="Explore Sewer Arena's complete documentation hub" />
+    <meta property="og:url" content="https://sewerarena.com/docs/" />
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        line-height: 1.6;
+        color: #ccc;
+        background: #1a1a1a;
+        margin: 0;
+        padding: 2rem;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+      h1 {
+        color: #ff1493;
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+        text-shadow: 0 0 10px rgba(255, 20, 147, 0.5);
+      }
+      h2 {
+        color: #00ffff;
+        font-size: 1.8rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+      }
+      a {
+        color: #ff1493;
+        text-decoration: none;
+        transition: opacity 0.3s;
+      }
+      a:hover {
+        opacity: 0.8;
+      }
+      .docs-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1.5rem;
+        margin: 2rem 0;
+      }
+      .doc-card {
+        border: 1px solid rgba(255, 20, 147, 0.2);
+        padding: 1.5rem;
+        border-radius: 8px;
+        background: rgba(255, 20, 147, 0.05);
+        transition: all 0.3s;
+      }
+      .doc-card:hover {
+        border-color: rgba(255, 20, 147, 0.5);
+        background: rgba(255, 20, 147, 0.1);
+        box-shadow: 0 0 20px rgba(255, 20, 147, 0.3);
+      }
+      .doc-card h3 {
+        color: #ff1493;
+        margin: 0 0 0.5rem 0;
+      }
+      .doc-card p {
+        font-size: 0.9rem;
+        color: #999;
+        margin: 0.5rem 0;
+      }
+      .badge {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        background: #ff1493;
+        color: #000;
+        border-radius: 4px;
+        font-size: 0.8rem;
+        margin-right: 0.5rem;
+      }
+      footer {
+        margin-top: 3rem;
+        padding-top: 2rem;
+        border-top: 1px solid rgba(255, 20, 147, 0.2);
+        text-align: center;
+        font-size: 0.9rem;
+        color: #666;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🚰 Sewer Arena Documentation Hub</h1>
+    <p>Welcome to the complete documentation for Sewer Arena - a neon-velvet P2P gaming platform on Solana.</p>
+
+    <h2>📚 Documentation Sections</h2>
+
+    <div class="docs-grid">
+      <div class="doc-card">
+        <span class="badge">Getting Started</span>
+        <h3><a href="/admin/docs?file=index">Project Overview</a></h3>
+        <p>Introduction to Sewer Arena, tech stack, lore, and theme. Start here to understand the platform.</p>
+      </div>
+
+      <div class="doc-card">
+        <span class="badge">Features</span>
+        <h3><a href="/admin/docs?file=implemented-scopes">Implemented Features</a></h3>
+        <p>Complete list of all 20 games, wallet system, betting mechanics, power-ups, and Supabase infrastructure.</p>
+      </div>
+
+      <div class="doc-card">
+        <span class="badge">Features</span>
+        <h3><a href="/admin/docs?file=to-be-implemented">Pending Implementation</a></h3>
+        <p>Upcoming features and improvements, prioritized by effort and impact. Including enterprise wallet features and high roller UI polish.</p>
+      </div>
+
+      <div class="doc-card">
+        <span class="badge">Roadmap</span>
+        <h3><a href="/admin/docs?file=future-expansions">Future Expansions</a></h3>
+        <p>Strategic roadmap for omnichain integration (LayerZero/Hyperlane), Portal Gaming SDK, and Yellow Network Nitrolite liquidity layer.</p>
+      </div>
+
+      <div class="doc-card">
+        <span class="badge">Reference</span>
+        <h3><a href="/admin/docs?file=audit-assessment">Security Audit</a></h3>
+        <p>Comprehensive security assessment, compliance review, performance metrics, and recommendations for production deployment.</p>
+      </div>
+
+      <div class="doc-card">
+        <span class="badge">Reference</span>
+        <h3><a href="/admin/docs?file=deployment-checklist">Deployment Checklist</a></h3>
+        <p>Pre-launch verification, post-launch tasks, and rollout plan for beta and mainnet deployments.</p>
+      </div>
+    </div>
+
+    <h2>🔐 Access Documentation</h2>
+    <p>Full documentation viewer with table of contents, PDF export, and navigation is available in the admin dashboard:</p>
+    <p><a href="/admin/docs">📖 View Documentation in Admin Dashboard</a> (requires authentication)</p>
+
+    <h2>📋 Quick Links</h2>
+    <ul>
+      <li><strong>Games:</strong> 20 strategy games with mock betting, power-ups, and P2P mechanics</li>
+      <li><strong>Wallet:</strong> Multi-chain adapter support (Phantom, Solflare, Ledger) with mock/real modes</li>
+      <li><strong>Betting:</strong> Anchor escrow program with rake distribution, disputes, and VRF integration</li>
+      <li><strong>Admin:</strong> Protected dashboard with settings, feedback analytics, and documentation viewer</li>
+      <li><strong>Compliance:</strong> 18+ warnings, gambling help links, and GDPR support</li>
+    </ul>
+
+    <footer>
+      <p>Sewer Arena Documentation &copy; 2026 | P2P Gaming on Solana</p>
+      <p>
+        <a href="/">🏠 Back to Home</a> | <a href="/admin">🔐 Admin Dashboard</a> | <a href="https://github.com/sewerarena">GitHub</a>
+      </p>
+    </footer>
+  </body>
+</html>

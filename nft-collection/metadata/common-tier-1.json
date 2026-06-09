@@ -1,0 +1,25 @@
+{
+  "name": "Neon Drip Shades #1",
+  "symbol": "DATX-DRIP",
+  "description": "Classic neon shades for the sewer warrior - Grants +10% El Shito Power-Up chance. Part of the DatXit Power-Up Booster collection.",
+  "image": "https://arweave.net/placeholder-neon-drip-shades-1",
+  "external_url": "https://sewerarena.datx.gg/nft/drip-shades-1",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Boost Percentage", "value": "10%" },
+    { "trait_type": "Collection", "value": "DatXit Power-Up Boosters" },
+    { "trait_type": "Category", "value": "Apparel" },
+    { "trait_type": "Effect", "value": "Increased Power-Up Trigger Rate" }
+  ],
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/placeholder-neon-drip-shades-1",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [{ "address": "datxitsewera11111111111111111111", "verified": true, "share": 100 }]
+  }
+}

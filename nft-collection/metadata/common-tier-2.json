@@ -1,0 +1,20 @@
+{
+  "name": "Poop Chain #1",
+  "symbol": "DATX-CHAIN",
+  "description": "Iconic gold chain with poop emoji charm - Grants +10% El Shito Power-Up chance. Part of the DatXit Power-Up Booster collection.",
+  "image": "https://arweave.net/placeholder-poop-chain-1",
+  "external_url": "https://sewerarena.datx.gg/nft/poop-chain-1",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Boost Percentage", "value": "10%" },
+    { "trait_type": "Collection", "value": "DatXit Power-Up Boosters" },
+    { "trait_type": "Category", "value": "Accessories" },
+    { "trait_type": "Effect", "value": "Increased Power-Up Trigger Rate" }
+  ],
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [{ "uri": "https://arweave.net/placeholder-poop-chain-1", "type": "image/png" }],
+    "category": "image",
+    "creators": [{ "address": "datxitsewera11111111111111111111", "verified": true, "share": 100 }]
+  }
+}

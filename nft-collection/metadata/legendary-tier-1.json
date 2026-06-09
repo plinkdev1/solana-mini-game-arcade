@@ -1,0 +1,22 @@
+{
+  "name": "Golden Plunger Staff #1",
+  "symbol": "DATX-PLUNGER",
+  "description": "The ultimate sewer tool encrusted with gold - Grants +30% El Shito Power-Up chance and GUARANTEES one power-up per game. Exclusive effect: Choose your power-up type. Part of the DatXit Power-Up Booster collection.",
+  "image": "https://arweave.net/placeholder-golden-plunger-staff-1",
+  "external_url": "https://sewerarena.datx.gg/nft/golden-plunger-staff-1",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Boost Percentage", "value": "30%" },
+    { "trait_type": "Collection", "value": "DatXit Power-Up Boosters" },
+    { "trait_type": "Category", "value": "Weapon" },
+    { "trait_type": "Exclusive Effect", "value": "Guaranteed Power-Up + Choose Type" },
+    { "trait_type": "Material", "value": "Gold-Plated Rubber" },
+    { "trait_type": "Power Level", "value": "Legendary" }
+  ],
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [{ "uri": "https://arweave.net/placeholder-golden-plunger-staff-1", "type": "image/png" }],
+    "category": "image",
+    "creators": [{ "address": "datxitsewera11111111111111111111", "verified": true, "share": 100 }]
+  }
+}

@@ -1,0 +1,18 @@
+[package]
+name = "sewer-arena-powerups"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anchor-lang = "0.29"
+anchor-spl = "0.29"
+switchboard-v2 = "0.2"
+solana-program = "1.18"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[[bin]]
+name = "sewer_arena_powerups"
+path = "src/lib.rs"
+crate-type = ["cdylib"]

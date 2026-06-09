@@ -1,0 +1,21 @@
+{
+  "name": "El Shito Bandana #1",
+  "symbol": "DATX-BANDANA",
+  "description": "Legendary bandana with glowing eyes that pierce the sewer darkness - Grants +20% El Shito Power-Up chance. Exclusive effect: See one power-up type before trigger. Part of the DatXit Power-Up Booster collection.",
+  "image": "https://arweave.net/placeholder-el-shito-bandana-1",
+  "external_url": "https://sewerarena.datx.gg/nft/el-shito-bandana-1",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Boost Percentage", "value": "20%" },
+    { "trait_type": "Collection", "value": "DatXit Power-Up Boosters" },
+    { "trait_type": "Category", "value": "Face Wear" },
+    { "trait_type": "Exclusive Effect", "value": "Preview Power-Up" },
+    { "trait_type": "Eyes", "value": "Glowing Neon" }
+  ],
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [{ "uri": "https://arweave.net/placeholder-el-shito-bandana-1", "type": "image/png" }],
+    "category": "image",
+    "creators": [{ "address": "datxitsewera11111111111111111111", "verified": true, "share": 100 }]
+  }
+}

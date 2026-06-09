@@ -1,0 +1,21 @@
+{
+  "name": "Poop Crown #1",
+  "symbol": "DATX-CROWN",
+  "description": "Royal flush vibes with crown jewels made of solidified poop - Grants +20% El Shito Power-Up chance. Exclusive effect: Block one opponent power-up per game. Part of the DatXit Power-Up Booster collection.",
+  "image": "https://arweave.net/placeholder-poop-crown-1",
+  "external_url": "https://sewerarena.datx.gg/nft/poop-crown-1",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Boost Percentage", "value": "20%" },
+    { "trait_type": "Collection", "value": "DatXit Power-Up Boosters" },
+    { "trait_type": "Category", "value": "Headwear" },
+    { "trait_type": "Exclusive Effect", "value": "Block Enemy Power-Up" },
+    { "trait_type": "Material", "value": "Solidified Poop" }
+  ],
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [{ "uri": "https://arweave.net/placeholder-poop-crown-1", "type": "image/png" }],
+    "category": "image",
+    "creators": [{ "address": "datxitsewera11111111111111111111", "verified": true, "share": 100 }]
+  }
+}
