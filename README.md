@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Solana Multiplayer Mini-Game Arcade
 
@@ -26,8 +26,30 @@ A multiplayer mini-game arcade on Solana. Players connect a wallet, get matched 
 
 ## Games
 
-Chess, Checkers, Poker, Go, Gomoku, Ludo, Uno, Scrabble, Backgammon, Dominoes, Rummy, Risk, Halma, Nine Men's Morris, Tic-Tac-Toe, Dots & Boxes, Battleship, Peg solitaire - and more.
+The proto wraps 20+ standard board and card games in a playful, sewer-themed **microcopy** layer - a deliberate branding experiment that gives familiar games a distinct identity. Each themed title is a well-known classic underneath:
 
+| In-app title | Classic game |
+|---|---|
+| Poop Chess | Chess |
+| Poop Checkers | Checkers |
+| Poop Poker | Poker |
+| Go Clog | Go |
+| Infinite Poop Gomoku | Gomoku |
+| Ludo Flush | Ludo |
+| Uno Flush | Uno |
+| Scrabble Shit | Scrabble |
+| Backgammon Flush | Backgammon |
+| Domino Clog | Dominoes |
+| Rummy Clog | Rummy |
+| Risk Clog | Risk |
+| Poop Halma | Halma |
+| Poop Mills | Nine Men's Morris |
+| Poop Tac-Toe | Tic-Tac-Toe |
+| Poop Boxes | Dots & Boxes |
+| Battle Flush | Battleship |
+| Peg Flush | Peg Solitaire |
+| Ticket Flush | Ticket to Ride |
+| Bubble Flush | Bubble Shooter |
 ---
 
 ## Features
